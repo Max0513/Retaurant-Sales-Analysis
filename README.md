@@ -19,7 +19,12 @@ https://haproxy-traffic-splitter/views/Pizzeriasalesdashboards/Weeksummarydashbo
 
 ### Weekly review Dashboard
 
+</p align="center">
+
 ![image](Pictures/Weekly_dash.png)
+
+</p>
+
 The first dashboard is meant as a weekly summary of the previous week.
 
 - A global portrait of the last twelve months' sales is presented at the top with comparison to last year's sales to spot trends at a glance.
@@ -30,7 +35,11 @@ The first dashboard is meant as a weekly summary of the previous week.
 
 ### Detailed view Dashboard
 
+<p align="center">
+
 ![image](Pictures/Detail_dash.png)
+
+</p>
 
 The main element of this dashboard is a table of sales, filtered by the half hour. It's main use is as a small database of sales meant to help decision making regarding staff to be scheduled. Cost of staff is a main concern in the fast food industry. Predicting daily sales as well as periods of affluence can result in major cost savings.
 
@@ -38,7 +47,11 @@ Top right filters select a week of interest. Selecting a day of week then looks 
 
 ### Calendar Dashboard
 
+<p align="center">
+
 ![image](Pictures/Calendar_dash.png)
+
+</p>
 
 The last dashboard aims at a broader view of the daily sales, giving a visual cue as to where the hot spots tend to be.
 
