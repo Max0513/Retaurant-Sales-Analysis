@@ -1,6 +1,6 @@
 # Project summary
 
-    I have been in the buisiness management of a fast food restaurant for several years now and I have often felt like I was missing a clear portrait of several key metrics that could influence decisions and therefore limit wasted time and money.
+I have been in the buisiness management of a fast food restaurant for several years now and I have often felt like I was missing a clear portrait of several key metrics that could influence decisions and therefore limit wasted time and money.
 
 This dashboard project constructed in **Tableau** aims to give a clear and efficient acces to different relevant sales metrics for a similar buisiness aiming to help decision makers.
 
