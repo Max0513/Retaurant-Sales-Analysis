@@ -13,7 +13,9 @@ This project is meant as a demonstration of concepts.
 
 *Link to the dashboard on tableau public*:
 
-https://haproxy-traffic-splitter/views/Pizzeriasalesdashboards/Weeksummarydashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[Link to Tableau Public](https://public.tableau.com/app/profile/maxime.sirois/vizzes)
+
+Navigation from one dashboard to another is done through buttons at the top, The help icon gives usefull clarifications about the dashboards
 
 ## Overview of the dashboards
 
@@ -25,13 +27,13 @@ https://haproxy-traffic-splitter/views/Pizzeriasalesdashboards/Weeksummarydashbo
 
 </p>
 
-The first dashboard is meant as a weekly summary of the previous week.
+The first dashboard is meant as a summary of the previous week.
 
 - A global portrait of the last twelve months' sales is presented at the top with comparison to last year's sales to spot trends at a glance.
 
 - A breakdown of last week's food items sold is then represented as a bar chart in sales numbers as well as in number of orders. Filters allow further inspection of a specific category by a simple clic in the bar graph.
 
-- The last element of the dashboard is a collection of every ingredient orders from the last week. Spotting trends in ingredient order can greatly help in the management of inventory.
+- The last element of the dashboard is a collection of every ingredient orders from the last week. Spotting trends in ingredient order can help in the management of inventory.
 
 ### Detailed view Dashboard
 
